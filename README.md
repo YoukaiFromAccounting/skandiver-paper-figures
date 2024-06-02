@@ -4,8 +4,7 @@ Comparison of mobile element finding profiles of skandiver, MobileElementFinder 
 <br />
 <br />
 <br />
-<img width="970" alt="Fig3_v3" src="https://github.com/YoukaiFromAccounting/skandiver-paper-figures/assets/14861442/eb5d089a-53fd-4a19-8791-99812e3c294f">
-
+<img width="828" alt="Figure3_v4" src="https://github.com/YoukaiFromAccounting/skandiver-paper-figures/assets/14861442/0de8c897-413a-4371-b869-9486e2b292ae">
 
 ## Figure 5
 Recall of mobile element finding software on known plasmid database.
