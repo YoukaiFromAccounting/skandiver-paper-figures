@@ -16,9 +16,9 @@ def combine_fna_files(directory_path, output_file):
             with open(file_path, 'r') as current_file:
                 content = current_file.read()
                 combined_file.write(content)
-                progress_bar.update(1)
+                progress.update(1)
 
-    progress_bar.close()
+    progress.close()
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
@@ -29,4 +29,4 @@ if __name__ == "__main__":
     output_file = sys.argv[2]
 
     combine_fna_files(input_directory, output_file)
-    print("Files have been combined from {input_directory} to {output_file}")
+    print("Files have been combined from", input_directory,"to" output_file)
