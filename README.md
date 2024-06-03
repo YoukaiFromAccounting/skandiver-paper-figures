@@ -34,3 +34,10 @@ skandiver scales well to larger datasets.
 <br />
 <img width="565" alt="Fig6_v1" src="https://github.com/YoukaiFromAccounting/skandiver-paper-figures/assets/14861442/4ef40dce-38cb-4046-bee9-570b263aa6af">
 
+## Supplemental Figure 1
+Overlap of mobile element finding profiles of skandiver, MobileElementFinder (MEFinder), and geNomad: the three tools find different sets of putative genetic elements. 
+<br />
+<br />
+<br />
+<img width="800" alt="SuppFig1" src="https://github.com/YoukaiFromAccounting/skandiver-paper-figures/assets/14861442/86611c7a-122f-4d90-8185-5834850caedf">
+
