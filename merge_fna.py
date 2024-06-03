@@ -29,4 +29,4 @@ if __name__ == "__main__":
     output_file = sys.argv[2]
 
     combine_fna_files(input_directory, output_file)
-    print("Files have been combined from", input_directory,"to" output_file)
+    print("Files have been combined from", input_directory,"to", output_file)
