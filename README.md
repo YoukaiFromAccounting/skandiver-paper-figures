@@ -1,9 +1,9 @@
 This repository contains the raw data, scripts, and brief walkthroughs for recreating the figures from the paper skandiver: a divergence-based analysis tool for identifying intercellular mobile genetic elements. 
 
 Prior to running scripts, please ensure skandiver, MobileElementFinder, and geNomad are set up and properly configured in your testing environment. Instructions for installation and setup of each software can be found here: 
-*[skandiver](https://github.com/YoukaiFromAccounting/skandiver/tree/main)
-*[MobileElementFinder](https://pypi.org/project/MobileElementFinder/)
-*[geNomad](https://portal.nersc.gov/genomad/quickstart.html)
+* [skandiver](https://github.com/YoukaiFromAccounting/skandiver/tree/main)
+* [MobileElementFinder](https://pypi.org/project/MobileElementFinder/)
+* [geNomad](https://portal.nersc.gov/genomad/quickstart.html)
 
 ## Figure 3
 Comparison of mobile element finding profiles of skandiver, MobileElementFinder (MEFinder), and geNomad: the three tools find different sets of putative genetic mobile elements. 
