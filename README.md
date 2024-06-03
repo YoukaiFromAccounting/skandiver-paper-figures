@@ -39,5 +39,5 @@ Overlap of mobile element finding profiles of skandiver, MobileElementFinder (ME
 <br />
 <br />
 <br />
-<img width="600" alt="SuppFig1" src="https://github.com/YoukaiFromAccounting/skandiver-paper-figures/assets/14861442/86611c7a-122f-4d90-8185-5834850caedf">
+<img width="500" alt="SuppFig1" src="https://github.com/YoukaiFromAccounting/skandiver-paper-figures/assets/14861442/86611c7a-122f-4d90-8185-5834850caedf">
 
