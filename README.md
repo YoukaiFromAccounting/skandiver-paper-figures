@@ -13,8 +13,10 @@ Comparison of mobile element finding profiles of skandiver, MobileElementFinder 
 <img width="828" alt="Figure3_v4" src="https://github.com/YoukaiFromAccounting/skandiver-paper-figures/assets/14861442/0de8c897-413a-4371-b869-9486e2b292ae">
 
 ## Figure 5
-Recall of mobile element finding software on known plasmid database.
-[script](https://github.com/YoukaiFromAccounting/skandiver-paper-figures/blob/main/pipeline_for_frankenplasmid.ipynb)
+Recall of mobile element finding software on known plasmid database.<br />
+[data](https://datadryad.org/stash/dataset/doi:10.15146/R33X2J)<br />
+[script](https://github.com/YoukaiFromAccounting/skandiver-paper-figures/blob/main/pipeline_for_frankenplasmid.ipynb)<br />
+[script](https://github.com/YoukaiFromAccounting/skandiver-paper-figures/blob/main/pipeline_for_naked_plasmids.ipynb)<br />
 <br />
 <br />
 <br />
