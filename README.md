@@ -14,6 +14,7 @@ Comparison of mobile element finding profiles of skandiver, MobileElementFinder 
 
 ## Figure 5
 Recall of mobile element finding software on known plasmid database.
+[script](https://github.com/YoukaiFromAccounting/skandiver-paper-figures/blob/main/pipeline_for_frankenplasmid.ipynb)
 <br />
 <br />
 <br />
