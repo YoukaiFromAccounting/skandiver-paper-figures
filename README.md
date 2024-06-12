@@ -23,7 +23,8 @@ Recall of mobile element finding software on known plasmid database.<br />
 <img width="380" alt="Figure5_vnew" src="https://github.com/YoukaiFromAccounting/skandiver-paper-figures/assets/14861442/9791bdfd-8533-4316-aaaa-da99d3016545">
 
 ## Table 1
-skandiver, MobileElementFinder, and geNomad correctly do not identify known conserved elements as mobile.
+skandiver, MobileElementFinder, and geNomad correctly do not identify known conserved elements as mobile.<br />
+[data](https://github.com/YoukaiFromAccounting/skandiver-paper-figures/blob/main/data/table1/ncbi_accessions_conservedelements.txt)
 <br />
 <br />
 <br />
