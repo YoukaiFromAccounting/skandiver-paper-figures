@@ -31,8 +31,9 @@ skandiver, MobileElementFinder, and geNomad correctly do not identify known cons
 
 
 ## Figure 6
-skandiver scales well to larger datasets.
-<br />
+skandiver scales well to larger datasets.<br />
+[data](https://github.com/YoukaiFromAccounting/skandiver-paper-figures/tree/main/data/fig6a)<br />
+[data](https://github.com/YoukaiFromAccounting/skandiver-paper-figures/tree/main/data/fig6b)<br />
 <br />
 <br />
 <img width="565" alt="Fig6_v1" src="https://github.com/YoukaiFromAccounting/skandiver-paper-figures/assets/14861442/4ef40dce-38cb-4046-bee9-570b263aa6af">
