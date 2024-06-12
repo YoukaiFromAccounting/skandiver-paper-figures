@@ -16,7 +16,7 @@ Comparison of mobile element finding profiles of skandiver, MobileElementFinder 
 Recall of mobile element finding software on known plasmid database.<br />
 [data](https://datadryad.org/stash/dataset/doi:10.15146/R33X2J)<br />
 [script](https://github.com/YoukaiFromAccounting/skandiver-paper-figures/blob/main/pipeline_for_frankenplasmid.ipynb)<br />
-[script](https://github.com/YoukaiFromAccounting/skandiver-paper-figures/blob/main/pipeline_for_naked_plasmids.ipynb)<br />
+[script](https://github.com/YoukaiFromAccounting/skandiver-paper-figures/blob/main/pipeline_for_naked_plasmids.ipynb)
 <br />
 <br />
 <br />
