@@ -7,6 +7,7 @@ Prior to running scripts, please ensure skandiver, MobileElementFinder, and geNo
 
 ## Figure 3
 Comparison of mobile element finding profiles of skandiver, MobileElementFinder (MEFinder), and geNomad: the three tools find different sets of putative genetic mobile elements.<br />
+[data](https://github.com/YoukaiFromAccounting/skandiver-paper-figures/tree/main/data/fig3)<br />
 [script](https://github.com/YoukaiFromAccounting/skandiver-paper-figures/blob/main/pipeline_for_barcodes.ipynb)
 <br />
 <br />
